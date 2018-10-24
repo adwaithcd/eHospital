@@ -5,7 +5,7 @@ a {
 }</style>
 <div class="header">
 	<div class="headerleft">
-		<b><a href="index.php">eHospital</a></b>
+		<b><a href="index.php">eHOSPITAL</a></b>
 	</div>
 	<div class="headerright">
 		<b>

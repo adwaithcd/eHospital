@@ -25,7 +25,7 @@ if (empty($_SESSION['bursar']) OR empty($_SESSION['type'])) {
 				<input type="text" name="fname" class="form" placeholder="Enter Firstname" required="required"><br><br>
 				<input type="text" name="sname" class="form" placeholder="Enter Surname" required="required"><br><br>
 				<input type="email" name="email" class="form" placeholder="Enter Email" required="required"><br><br>
-				<input type="number" name="phone" class="form" placeholder="Enter Phone number" required="required"><br><br>
+				<input type="number" name="phone" class="form" placeholder="Enter Phone no" required="required"><br><br>
 				<input type="text" name="address" class="form" placeholder="Enter Address" required="required"><br><br>
 				<select name="gender" class="form" required="required">
 					<option value="">Choose Gender</option>
