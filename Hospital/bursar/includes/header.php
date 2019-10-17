@@ -1,7 +1,7 @@
 <style type="text/css">
 a {
     text-decoration: none !important;
-    color: white;
+    color: blue;
 }</style>
 <div class="header">
 	<div class="headerleft">
